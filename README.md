@@ -1,0 +1,1 @@
+This game represents an Adventure game which uses user input to direct the story. There are 10 options throughout the game, and the user must choose an option and 'possible successive options in order to progress the game. STOP to stop. help for help menu.
